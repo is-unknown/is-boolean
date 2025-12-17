@@ -1,0 +1,27 @@
+{
+  "name": "@is-(unknown)/is-boolean",
+  "version": "1.0.0",
+  "description": "Check if a value is a boolean primitive.",
+  "keywords": [
+    "is"
+  ],
+  "homepage": "https://github.com/is-unknown/is-boolean#readme",
+  "bugs": {
+    "url": "https://github.com/is-unknown/is-boolean/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/is-unknown/is-boolean.git"
+  },
+  "license": "Unlicense",
+  "author": "10x'ly made",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@is-(unknown)/is-false": "^1.5.0",
+    "@is-(unknown)/is-true": "^1.5.0"
+  }
+}
