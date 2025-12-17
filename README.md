@@ -1,6 +1,6 @@
 <h1 align="center"><code>is-boolean</code></h1>
 <p>
-  <a href="https://www.npmjs.com/package/is-boolean" target="_blank">
+  <a href="https://www.npmjs.com/package/@is-(unknown)/is-boolean" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/is-boolean.svg">
   </a>
   <a href="https://github.com/is-unknown/is-boolean#readme" target="_blank">
